@@ -92,8 +92,8 @@ This repository is part of my data science & machine learning portfolio.
 1. Clone the repository:
 
    ```bash
-   git clone <repo_url>
-   cd <repo_name>
+   git clone git@github.com:hamzasiddiqui10/airbnb_price_prediction_GBTree.git
+   cd airbnb_price_prediction_GBTree
    ```
 2. Run the notebook:
 
@@ -106,14 +106,6 @@ This repository is part of my data science & machine learning portfolio.
 ## 📜 License
 
 This project is released under the **MIT License**.
-
----
-
-## 🙋‍♂️ About Me
-
-I am a Data Scientist with 5 years of industry experience and a graduate student in **Applied Data Science**.
-I enjoy building real-world ML models, especially in predictive modeling, pricing, and tabular ML. This project
-was made for the Machine Learning course during my Masters degree.
 
 ---
 
