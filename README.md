@@ -1,8 +1,8 @@
 ---
 
-# 🏡 Berlin Airbnb Price Prediction – Gradient Boosted Trees
+# Berlin Airbnb Price Prediction – Gradient Boosted Trees
 
-## 📌 Overview
+## Overview
 
 This project builds a **machine-learning model to predict Airbnb listing prices in Berlin** using a cleaned dataset of listing attributes.
 The goal is to explore the factors influencing rental prices and build a strong predictive model using **CatBoost Gradient Boosted Trees**.
@@ -11,7 +11,7 @@ This repository is part of my data science & machine learning portfolio.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * End-to-end workflow in a single, clean Jupyter Notebook
 * Feature engineering of text, categorical, and numerical fields
@@ -24,7 +24,7 @@ This repository is part of my data science & machine learning portfolio.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -36,7 +36,7 @@ This repository is part of my data science & machine learning portfolio.
 
 ---
 
-## 🧠 Modeling Approach
+## Modeling Approach
 
 ### **Model:**
 
@@ -61,7 +61,7 @@ This repository is part of my data science & machine learning portfolio.
 
 ---
 
-## 📊 Results
+## Results
 
 * The model achieves strong predictive performance on unseen test data
 * Log-transform significantly stabilizes variance and improves fit
@@ -75,7 +75,7 @@ This repository is part of my data science & machine learning portfolio.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 3.x
 * pandas
@@ -87,7 +87,7 @@ This repository is part of my data science & machine learning portfolio.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -103,7 +103,7 @@ This repository is part of my data science & machine learning portfolio.
 
 ---
 
-## 📜 License
+## License
 
 This project is released under the **MIT License**.
 
